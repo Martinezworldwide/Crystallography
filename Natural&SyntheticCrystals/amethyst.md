@@ -1,6 +1,6 @@
 # 💎 Amethyst Crystal
 
-![Amethyst](./A_digital_photograph_showcases_a_single_amethyst_c.png)
+![Amethyst](./amethyst.png)
 
 ---
 
